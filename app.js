@@ -1,8 +1,8 @@
 const express = require('express');
 const path = require('path')
 
-const canvas = require('canvas');
-const faceapi = require('face-api.js');
+// const canvas = require('canvas');
+// const faceapi = require('face-api.js');
 
 const app = express();
 const port = 3000;
